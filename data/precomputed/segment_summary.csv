@@ -1,0 +1,5 @@
+segment,users,avg_recency,avg_frequency,avg_monetary,total_revenue,color,action
+At-Risk,7423,51.9,4.7,957.5,7107204.2,#BA7517,Trigger win-back email sequence. Offer targeted discount.
+Champions,4,1.2,583.5,124215.2,496860.9,#378ADD,Reward with exclusive perks. Activate as brand ambassadors.
+Loyal Customers,28,3.0,128.2,26979.0,755411.8,#1D9E75,Upsell premium tiers. Offer subscription bundles.
+New Customers,3724,212.8,1.8,361.5,1346302.4,#7F77DD,Optimize onboarding. Drive second purchase within 30 days.

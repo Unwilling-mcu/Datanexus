@@ -1,1 +1,1 @@
-web: gunicorn dashboard.app:server --workers 2 --bind 0.0.0.0:$PORT
+web: gunicorn dashboard.app:server --workers 1 --timeout 120 --bind 0.0.0.0:`$PORT`" | Out-File -FilePath Procfile -Encoding utf8 -NoNewline

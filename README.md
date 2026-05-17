@@ -1,7 +1,7 @@
 # DataNexus — Enterprise E-Commerce Analytics Platform
 
 > A full-stack data science application for e-commerce analytics: sales forecasting, customer segmentation, anomaly detection, and cohort retention analysis — served as a live interactive web dashboard.
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://datanexus-ffyu.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![Dash](https://img.shields.io/badge/Dash-2.17-informational?logo=plotly)](https://dash.plotly.com)
 [![Prophet](https://img.shields.io/badge/Prophet-1.1.5-orange)](https://facebook.github.io/prophet)
